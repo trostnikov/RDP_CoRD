@@ -7,10 +7,22 @@
 
 ####  How to use #####
 
-Type 'rdp' in alfred pane.
-Select one of the saved remote sessions.
+Type 'rdp' in alfred pane. Select one of the saved remote sessions. Type server name or ip address to connect to unsaved session.
 
 Start typing existing session name or session ip address for filtering.
+
+
+#### Change log ####
+
+build 1.1
+
+ - Possible to connect to server not in list.
+
+build 1.0
+
+ - Base functional.
+
+
 
 
 
