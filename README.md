@@ -2,9 +2,8 @@
 
 ![Screen Shot](https://github.com/trostnikov/RDP_CoRD/raw/master/Screen%20Shot.png "Screen shot")
 
-#### Download ####
 
-**[Download link](https://github.com/trostnikov/RDP_CoRD/raw/master/RDP%20CoRd.alfredworkflow)**
+**[Download](https://github.com/trostnikov/RDP_CoRD/raw/master/RDP%20CoRd.alfredworkflow)**
 
 ####  How to use #####
 
