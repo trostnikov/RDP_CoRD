@@ -7,4 +7,4 @@ Workflow for Alfred 2
  For filtering:
  	Start typing existing session name or session ip address
 
-**[Download!](https://github.com/trostnikov/RDP_CoRD/blob/master/RDP%20CoRd.alfredworkflow)**
+**[Download!](https://github.com/trostnikov/RDP_CoRD/raw/master/RDP%20CoRd.alfredworkflow)**
