@@ -5,11 +5,6 @@
 
 **[Download](https://github.com/trostnikov/RDP_CoRD/raw/master/RDP%20CoRd.alfredworkflow)**
 
-<script src="paypal-button.min.js?merchant=trostnikov@gmail.com"
-    data-button="donate"
-    data-name="Igor's Alfred Workflow"
-></script>
-
 
 ####  How to use #####
 
